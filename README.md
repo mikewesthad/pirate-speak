@@ -20,6 +20,15 @@ var pirate = pirateSpeak.translate(english);
 //  -> Coin rules everything around me C.R.E.A.M. get thar doubloons
 ```
 
+```js
+var pirateSpeak = require('pirate-speak');
+
+var english = 'Mama always said life was like a box of chocolates. You never know what you\'re gonna get.';
+var pirate = pirateSpeak.translate(english);
+//  -> Mama always said life be like a barrel o' chocolates. Ye nary know what you're gonna get.
+```
+
+
 ## License
 >You can check out the full license [here](https://github.com/mikewesthad/pirate-speak/blob/master/LICENSE)
 
