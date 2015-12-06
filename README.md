@@ -2,7 +2,7 @@
 
 A Node module for translating from english to pirate, built for teaching Node.
 
-![Painty The Pirate](http://img2.wikia.nocookie.net/__cb20121116031105/spongebob/images/thumb/e/eb/PaintythePirate.jpg/500px-PaintythePirate.jpg)
+![Pirate Forest Gump](images/pirate-gump.jpg)
 
 ## Installation
 
@@ -62,6 +62,10 @@ So cry ahoy t' falsetto in three, two, swag
 
 --- First Mate Bieber
 ```
+
+Part of the teaching exercise involved building a backend pirate API and then interacting with it from a frontend.  A live version of the heroku app is available [here](https://pirate-speak.herokuapp.com/).
+
+[![Heroku Pirate App](images/pirate-heroku-app.png)](https://pirate-speak.herokuapp.com/)
 
 
 ## License
