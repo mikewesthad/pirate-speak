@@ -1,0 +1,28 @@
+{
+  "name": "pirate-speak",
+  "version": "1.0.0",
+  "description": "A simple pirate translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test/pirate-speak-test.js"
+  },
+  "author": "Michael Hadley <michaelwesthadley@gmail.com>",
+  "contributors": [
+    "Rex Twedt"
+  ],
+  "keywords": [
+    "pirate", 
+    "pirates",
+    "translate",
+    "translation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "mikewesthad/pirate-speak"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url" : "https://github.com/mikewesthad/pirate-speak/issues",
+    "email" : "michaelwesthadley@gmail.com"
+  }
+}
