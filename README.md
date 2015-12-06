@@ -1,4 +1,4 @@
-# Pirate Speak 
+# Pirate Speak
 
 A Node module for translating from english to pirate
 
