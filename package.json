@@ -1,6 +1,6 @@
 {
   "name": "pirate-speak",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple pirate translator",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "Rex Twedt"
   ],
   "keywords": [
-    "pirate", 
+    "pirate",
     "pirates",
     "translate",
     "translation"
@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url" : "https://github.com/mikewesthad/pirate-speak/issues",
-    "email" : "michaelwesthadley@gmail.com"
+    "url": "https://github.com/mikewesthad/pirate-speak/issues",
+    "email": "michaelwesthadley@gmail.com"
   }
 }
